@@ -9,6 +9,411 @@
     },
     "items": [
         {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Void-Poster-Print"
+                ]
+            },
+            "height": 4777,
+            "width": 3129,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 98,
+                                                "height": 150
+                                            },
+                                            {
+                                                "width": 196,
+                                                "height": 299
+                                            },
+                                            {
+                                                "width": 392,
+                                                "height": 598
+                                            },
+                                            {
+                                                "width": 783,
+                                                "height": 1195
+                                            },
+                                            {
+                                                "width": 1565,
+                                                "height": 2389
+                                            },
+                                            {
+                                                "width": 3129,
+                                                "height": 4777
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3129,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4777,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Octopus-Snack-Time-Screenprint"
+                ]
+            },
+            "height": 4361,
+            "width": 3539,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 111,
+                                                "height": 137
+                                            },
+                                            {
+                                                "width": 222,
+                                                "height": 273
+                                            },
+                                            {
+                                                "width": 443,
+                                                "height": 546
+                                            },
+                                            {
+                                                "width": 885,
+                                                "height": 1091
+                                            },
+                                            {
+                                                "width": 1770,
+                                                "height": 2181
+                                            },
+                                            {
+                                                "width": 3539,
+                                                "height": 4361
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3539,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4361,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Spider-Linocut"
+                ]
+            },
+            "height": 709,
+            "width": 960,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 30,
+                                                "height": 23
+                                            },
+                                            {
+                                                "width": 60,
+                                                "height": 45
+                                            },
+                                            {
+                                                "width": 120,
+                                                "height": 89
+                                            },
+                                            {
+                                                "width": 240,
+                                                "height": 178
+                                            },
+                                            {
+                                                "width": 480,
+                                                "height": 355
+                                            },
+                                            {
+                                                "width": 960,
+                                                "height": 709
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 960,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 709,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Jellyfish-Snack-Time-Screenprint"
+                ]
+            },
+            "height": 4446,
+            "width": 3574,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 112,
+                                                "height": 139
+                                            },
+                                            {
+                                                "width": 224,
+                                                "height": 278
+                                            },
+                                            {
+                                                "width": 447,
+                                                "height": 556
+                                            },
+                                            {
+                                                "width": 894,
+                                                "height": 1112
+                                            },
+                                            {
+                                                "width": 1787,
+                                                "height": 2223
+                                            },
+                                            {
+                                                "width": 3574,
+                                                "height": 4446
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3574,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4446,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Octopus-Screenprint"
+                ]
+            },
+            "height": 1515,
+            "width": 1200,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 38,
+                                                "height": 48
+                                            },
+                                            {
+                                                "width": 75,
+                                                "height": 95
+                                            },
+                                            {
+                                                "width": 150,
+                                                "height": 190
+                                            },
+                                            {
+                                                "width": 300,
+                                                "height": 379
+                                            },
+                                            {
+                                                "width": 600,
+                                                "height": 758
+                                            },
+                                            {
+                                                "width": 1200,
+                                                "height": 1515
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 1200,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 1515,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/canvas/",
             "type": "Canvas",
             "label": {
@@ -84,6 +489,87 @@
                                 "format": "image/jpeg"
                             },
                             "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Splat-Screenprint"
+                ]
+            },
+            "height": 4263,
+            "width": 3176,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 100,
+                                                "height": 134
+                                            },
+                                            {
+                                                "width": 199,
+                                                "height": 267
+                                            },
+                                            {
+                                                "width": 397,
+                                                "height": 533
+                                            },
+                                            {
+                                                "width": 794,
+                                                "height": 1066
+                                            },
+                                            {
+                                                "width": 1588,
+                                                "height": 2132
+                                            },
+                                            {
+                                                "width": 3176,
+                                                "height": 4263
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3176,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4263,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint/canvas/"
                         }
                     ]
                 }

@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 112,
+    "height" : 139
+  }, {
+    "width" : 224,
+    "height" : 278
+  }, {
+    "width" : 447,
+    "height" : 556
+  }, {
+    "width" : 894,
+    "height" : 1112
+  }, {
+    "width" : 1787,
+    "height" : 2223
+  }, {
+    "width" : 3574,
+    "height" : 4446
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3574,
+  "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4446
+}

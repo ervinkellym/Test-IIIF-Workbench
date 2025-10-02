@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 111,
+    "height" : 137
+  }, {
+    "width" : 222,
+    "height" : 273
+  }, {
+    "width" : 443,
+    "height" : 546
+  }, {
+    "width" : 885,
+    "height" : 1091
+  }, {
+    "width" : 1770,
+    "height" : 2181
+  }, {
+    "width" : 3539,
+    "height" : 4361
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3539,
+  "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4361
+}
