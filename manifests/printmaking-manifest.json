@@ -1,0 +1,204 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/manifests/printmaking-manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "Kelly Mills' (Ervin) Printmaking Portfolio, 2015",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "A selection of works from my high school printmaking portfolio, 2012-2015.",
+    "@language" : "en"
+  } ],
+  "attribution" : "Kelly Ervin Mills, 2025",
+  "sequences" : [ {
+    "@id" : "http://b93138ff-6450-4d7d-beb1-a4d5cf58089f",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://5f4caa73-4c84-4710-94bc-e40e146db0cd",
+      "@type" : "sc:Canvas",
+      "label" : "\"Accidents Happen\" Four-Color Screen Print on Paper",
+      "height" : 4263,
+      "width" : 3176,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://72145bcd-5ee6-4384-b908-06d3f8200eea",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Splat-Screenprint",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4263,
+          "width" : 3176
+        },
+        "on" : "http://5f4caa73-4c84-4710-94bc-e40e146db0cd"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://1580ab07-fba0-4fd0-8f00-ebb565168355",
+      "@type" : "sc:Canvas",
+      "label" : "\"The Cake Didn't Make It\" Four-Color Screen Print on Paper",
+      "height" : 4322,
+      "width" : 3431,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0bcd9747-9590-4ec0-940e-3ace413fdf28",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4322,
+          "width" : 3431
+        },
+        "on" : "http://1580ab07-fba0-4fd0-8f00-ebb565168355"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://15a59a2b-6af7-4ead-bae8-7e2ccde91567",
+      "@type" : "sc:Canvas",
+      "label" : "\"Snack Time\" Five-Color Screen Print on Paper",
+      "height" : 4446,
+      "width" : 3574,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://0521eee8-0e34-489c-87c2-3f26460e5675",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Jellyfish-Snack-Time-Screenprint",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4446,
+          "width" : 3574
+        },
+        "on" : "http://15a59a2b-6af7-4ead-bae8-7e2ccde91567"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://4e15e6d6-1b12-4fd9-bd13-cef37f000913",
+      "@type" : "sc:Canvas",
+      "label" : "\"In Other News\" Seven-Color Screen Print on Aluminium",
+      "height" : 1515,
+      "width" : 1200,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9fa37374-d2fc-4895-8b75-5c99316e6c2c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint-2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Screenprint-2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1515,
+          "width" : 1200
+        },
+        "on" : "http://4e15e6d6-1b12-4fd9-bd13-cef37f000913"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://84629a28-6967-4d74-b4b5-7856cce15aa6",
+      "@type" : "sc:Canvas",
+      "label" : "\"Snack Time?\" Four-Color Screen Print on Paper",
+      "height" : 4361,
+      "width" : 3539,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://b05fd336-525b-44c7-bbf3-ac9ea7a3f598",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Octopus-Snack-Time-Screenprint",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4361,
+          "width" : 3539
+        },
+        "on" : "http://84629a28-6967-4d74-b4b5-7856cce15aa6"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://12133b0e-a360-415b-a64a-773ee3593aa7",
+      "@type" : "sc:Canvas",
+      "label" : "\"Into the Void.\" Four-Color Screen Print on Butcher Paper",
+      "height" : 4777,
+      "width" : 3129,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://732a5c1c-8e66-4bff-b21b-21f96d6ac56f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Void-Poster-Print",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 4777,
+          "width" : 3129
+        },
+        "on" : "http://12133b0e-a360-415b-a64a-773ee3593aa7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://bdef8302-f448-4423-9570-7293cda4b738",
+      "@type" : "sc:Canvas",
+      "label" : "Untitled Spider Linocut on Paper",
+      "height" : 709,
+      "width" : 960,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://92856c7b-45e9-40b7-8e8f-2303c89a21e4",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Spider-Linocut",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 709,
+          "width" : 960
+        },
+        "on" : "http://bdef8302-f448-4423-9570-7293cda4b738"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
