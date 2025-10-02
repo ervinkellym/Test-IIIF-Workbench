@@ -7,5 +7,87 @@
             "All images loaded in ervinkellym/Test-IIIF-Workbench project"
         ]
     },
-    "items": []
+    "items": [
+        {
+            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Cake-Screenprint"
+                ]
+            },
+            "height": 4322,
+            "width": 3431,
+            "items": [
+                {
+                    "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 108,
+                                                "height": 136
+                                            },
+                                            {
+                                                "width": 215,
+                                                "height": 271
+                                            },
+                                            {
+                                                "width": 429,
+                                                "height": 541
+                                            },
+                                            {
+                                                "width": 858,
+                                                "height": 1081
+                                            },
+                                            {
+                                                "width": 1716,
+                                                "height": 2161
+                                            },
+                                            {
+                                                "width": 3431,
+                                                "height": 4322
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 3431,
+                                        "@id": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 4322,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://ervinkellym.github.io/Test-IIIF-Workbench/images/Cake-Screenprint/canvas/"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
 }
