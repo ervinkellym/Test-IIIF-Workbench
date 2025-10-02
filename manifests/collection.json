@@ -1,0 +1,13 @@
+{
+  "id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in ervinkellym/Test-IIIF-Workbench project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://ervinkellym.github.io/Test-IIIF-Workbench/manifests/printmaking-manifest.json",
+    "label" : "Kelly Mills' (Ervin) Printmaking Portfolio, 2015"
+  } ]
+}
